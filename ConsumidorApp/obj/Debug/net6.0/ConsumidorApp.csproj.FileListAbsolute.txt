@@ -1,0 +1,17 @@
+D:\DevPratica\RabbitMQApp\ConsumidorApp\bin\Debug\net6.0\ConsumidorApp.exe
+D:\DevPratica\RabbitMQApp\ConsumidorApp\bin\Debug\net6.0\ConsumidorApp.deps.json
+D:\DevPratica\RabbitMQApp\ConsumidorApp\bin\Debug\net6.0\ConsumidorApp.runtimeconfig.json
+D:\DevPratica\RabbitMQApp\ConsumidorApp\bin\Debug\net6.0\ConsumidorApp.dll
+D:\DevPratica\RabbitMQApp\ConsumidorApp\bin\Debug\net6.0\ConsumidorApp.pdb
+D:\DevPratica\RabbitMQApp\ConsumidorApp\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\DevPratica\RabbitMQApp\ConsumidorApp\obj\Debug\net6.0\ConsumidorApp.csproj.AssemblyReference.cache
+D:\DevPratica\RabbitMQApp\ConsumidorApp\obj\Debug\net6.0\ConsumidorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevPratica\RabbitMQApp\ConsumidorApp\obj\Debug\net6.0\ConsumidorApp.AssemblyInfoInputs.cache
+D:\DevPratica\RabbitMQApp\ConsumidorApp\obj\Debug\net6.0\ConsumidorApp.AssemblyInfo.cs
+D:\DevPratica\RabbitMQApp\ConsumidorApp\obj\Debug\net6.0\ConsumidorApp.csproj.CoreCompileInputs.cache
+D:\DevPratica\RabbitMQApp\ConsumidorApp\obj\Debug\net6.0\ConsumidorApp.csproj.CopyComplete
+D:\DevPratica\RabbitMQApp\ConsumidorApp\obj\Debug\net6.0\ConsumidorApp.dll
+D:\DevPratica\RabbitMQApp\ConsumidorApp\obj\Debug\net6.0\refint\ConsumidorApp.dll
+D:\DevPratica\RabbitMQApp\ConsumidorApp\obj\Debug\net6.0\ConsumidorApp.pdb
+D:\DevPratica\RabbitMQApp\ConsumidorApp\obj\Debug\net6.0\ConsumidorApp.genruntimeconfig.cache
+D:\DevPratica\RabbitMQApp\ConsumidorApp\obj\Debug\net6.0\ref\ConsumidorApp.dll
